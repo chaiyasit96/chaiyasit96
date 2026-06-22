@@ -37,7 +37,7 @@ Feel free to reach out — whether it's to collaborate, exchange ideas, or talk 
 
 **Frontend**
 
-![](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark)
+![](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark)
 
 **Backend & Database**
 
