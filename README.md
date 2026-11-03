@@ -13,12 +13,18 @@
   <h3>Building reliable backends. Designing scalable systems.</h3>
 
   <p>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="https://github.com/chaiyasit96">
+      <img src="https://img.shields.io/github/followers/chaiyasit96?label=Follow&style=for-the-badge&logo=github&logoColor=white&color=7AA2F7" alt="Follow on GitHub" />
     </a>
-    <a href="mailto:your-email@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Contact-9ECE6A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+    <!--
+      Add your real links, then uncomment:
+      <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </a>
+      <a href="mailto:your-email@example.com">
+        <img src="https://img.shields.io/badge/Email-Contact-9ECE6A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+    -->
   </p>
 
 </div>
@@ -74,13 +80,13 @@ I believe great software is built through continuous learning, thoughtful engine
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaiyasit96&show_icons=true&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/chaiyasit96/chaiyasit96/output/stats.svg" alt="GitHub Stats" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaiyasit96&layout=compact&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
+  <img width="49%" src="https://raw.githubusercontent.com/chaiyasit96/chaiyasit96/output/top-langs.svg" alt="Top Languages" />
 
   <br/>
 
-  <img width="55%" src="https://streak-stats.demolab.com/?user=chaiyasit96&hide_border=true&background=0D1117&ring=79C0FF&fire=BC8CFF&currStreakLabel=79C0FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img width="66%" src="https://raw.githubusercontent.com/chaiyasit96/chaiyasit96/output/streak.svg" alt="GitHub Streak" />
 
 </div>
 
@@ -97,7 +103,7 @@ I believe great software is built through continuous learning, thoughtful engine
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaiyasit96&bg_color=0D1117&color=79C0FF&line=BC8CFF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://raw.githubusercontent.com/chaiyasit96/chaiyasit96/output/activity.svg" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -105,7 +111,11 @@ I believe great software is built through continuous learning, thoughtful engine
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/chaiyasit96/chaiyasit96/output/snake.svg" width="100%" alt="GitHub Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaiyasit96/chaiyasit96/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaiyasit96/chaiyasit96/output/snake-light.svg" />
+    <img src="https://raw.githubusercontent.com/chaiyasit96/chaiyasit96/output/snake.svg" width="100%" alt="GitHub Contribution Snake" />
+  </picture>
 
 </div>
 
