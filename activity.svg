@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-label="Chaiyasit&#39;s Contribution Graph">
+  <title>Chaiyasit&#39;s Contribution Graph</title>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .title { font-size: 18px; font-weight: 600; fill: #79C0FF; }
+    .label { font-size: 14px; fill: #C9D1D9; }
+    .value { font-size: 14px; font-weight: 700; fill: #C9D1D9; }
+    .muted { font-size: 12px; fill: #8B949E; }
+    .fade { opacity: 0; animation: fade 0.6s ease-in-out forwards; }
+    @keyframes fade { to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" rx="6" width="999" height="319" fill="#0D1117" stroke="#30363D"/>
+  <defs>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#79C0FF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#79C0FF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <text x="500" y="36" class="title" text-anchor="middle">Chaiyasit's Contribution Graph (last 31 days)</text>
+  <line x1="60" y1="270.0" x2="970" y2="270.0" stroke="#30363D" stroke-dasharray="0"/>
+  <text x="48" y="274" class="muted" text-anchor="end">0</text>
+  <line x1="60" y1="217.5" x2="970" y2="217.5" stroke="#30363D" stroke-dasharray="3 4"/>
+  <text x="48" y="221.5" class="muted" text-anchor="end">2</text>
+  <line x1="60" y1="165.0" x2="970" y2="165.0" stroke="#30363D" stroke-dasharray="3 4"/>
+  <text x="48" y="169" class="muted" text-anchor="end">4</text>
+  <line x1="60" y1="112.5" x2="970" y2="112.5" stroke="#30363D" stroke-dasharray="3 4"/>
+  <text x="48" y="116.5" class="muted" text-anchor="end">6</text>
+  <line x1="60" y1="60.0" x2="970" y2="60.0" stroke="#30363D" stroke-dasharray="3 4"/>
+  <text x="48" y="64" class="muted" text-anchor="end">8</text>
+  <text x="60.0" y="292" class="muted" text-anchor="middle">Oct 8</text>
+  <text x="211.7" y="292" class="muted" text-anchor="middle">Oct 13</text>
+  <text x="363.3" y="292" class="muted" text-anchor="middle">Oct 18</text>
+  <text x="515.0" y="292" class="muted" text-anchor="middle">Oct 23</text>
+  <text x="666.7" y="292" class="muted" text-anchor="middle">Oct 28</text>
+  <text x="818.3" y="292" class="muted" text-anchor="middle">Nov 2</text>
+  <text x="970.0" y="292" class="muted" text-anchor="middle">Nov 7</text>
+  <g class="fade" style="animation-delay:200ms">
+    <path d="M60.0,270.0 L90.3,270.0 L120.7,270.0 L151.0,243.8 L181.3,270.0 L211.7,270.0 L242.0,270.0 L272.3,270.0 L302.7,270.0 L333.0,270.0 L363.3,243.8 L393.7,243.8 L424.0,270.0 L454.3,270.0 L484.7,270.0 L515.0,270.0 L545.3,217.5 L575.7,243.8 L606.0,191.3 L636.3,112.5 L666.7,270.0 L697.0,270.0 L727.3,270.0 L757.7,270.0 L788.0,270.0 L818.3,112.5 L848.7,165.0 L879.0,112.5 L909.3,270.0 L939.7,217.5 L970.0,243.8 L970.0,270 L60.0,270 Z" fill="url(#area)"/>
+    <path d="M60.0,270.0 L90.3,270.0 L120.7,270.0 L151.0,243.8 L181.3,270.0 L211.7,270.0 L242.0,270.0 L272.3,270.0 L302.7,270.0 L333.0,270.0 L363.3,243.8 L393.7,243.8 L424.0,270.0 L454.3,270.0 L484.7,270.0 L515.0,270.0 L545.3,217.5 L575.7,243.8 L606.0,191.3 L636.3,112.5 L666.7,270.0 L697.0,270.0 L727.3,270.0 L757.7,270.0 L788.0,270.0 L818.3,112.5 L848.7,165.0 L879.0,112.5 L909.3,270.0 L939.7,217.5 L970.0,243.8" fill="none" stroke="#BC8CFF" stroke-width="2.5" stroke-linejoin="round"/>
+    <circle cx="60.0" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 8, 2026: 0</title></circle><circle cx="90.3" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 9, 2026: 0</title></circle><circle cx="120.7" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 10, 2026: 0</title></circle><circle cx="151.0" cy="243.8" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 11, 2026: 1</title></circle><circle cx="181.3" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 12, 2026: 0</title></circle><circle cx="211.7" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 13, 2026: 0</title></circle><circle cx="242.0" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 14, 2026: 0</title></circle><circle cx="272.3" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 15, 2026: 0</title></circle><circle cx="302.7" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 16, 2026: 0</title></circle><circle cx="333.0" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 17, 2026: 0</title></circle><circle cx="363.3" cy="243.8" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 18, 2026: 1</title></circle><circle cx="393.7" cy="243.8" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 19, 2026: 1</title></circle><circle cx="424.0" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 20, 2026: 0</title></circle><circle cx="454.3" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 21, 2026: 0</title></circle><circle cx="484.7" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 22, 2026: 0</title></circle><circle cx="515.0" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 23, 2026: 0</title></circle><circle cx="545.3" cy="217.5" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 24, 2026: 2</title></circle><circle cx="575.7" cy="243.8" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 25, 2026: 1</title></circle><circle cx="606.0" cy="191.3" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 26, 2026: 3</title></circle><circle cx="636.3" cy="112.5" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 27, 2026: 6</title></circle><circle cx="666.7" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 28, 2026: 0</title></circle><circle cx="697.0" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 29, 2026: 0</title></circle><circle cx="727.3" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 30, 2026: 0</title></circle><circle cx="757.7" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Oct 31, 2026: 0</title></circle><circle cx="788.0" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Nov 1, 2026: 0</title></circle><circle cx="818.3" cy="112.5" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Nov 2, 2026: 6</title></circle><circle cx="848.7" cy="165.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Nov 3, 2026: 4</title></circle><circle cx="879.0" cy="112.5" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Nov 4, 2026: 6</title></circle><circle cx="909.3" cy="270.0" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Nov 5, 2026: 0</title></circle><circle cx="939.7" cy="217.5" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Nov 6, 2026: 2</title></circle><circle cx="970.0" cy="243.8" r="3" fill="#FFFFFF" stroke="#BC8CFF" stroke-width="1.5"><title>Nov 7, 2026: 1</title></circle>
+  </g>
+</svg>

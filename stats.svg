@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="210" viewBox="0 0 495 210" role="img" aria-label="Chaiyasit&#39;s GitHub Stats">
+  <title>Chaiyasit&#39;s GitHub Stats</title>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .title { font-size: 18px; font-weight: 600; fill: #79C0FF; }
+    .label { font-size: 14px; fill: #C9D1D9; }
+    .value { font-size: 14px; font-weight: 700; fill: #C9D1D9; }
+    .muted { font-size: 12px; fill: #8B949E; }
+    .fade { opacity: 0; animation: fade 0.6s ease-in-out forwards; }
+    @keyframes fade { to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" rx="6" width="494" height="209" fill="#0D1117" stroke="#30363D"/>
+  <text x="25" y="35" class="title">Chaiyasit's GitHub Stats</text>
+  <g class="fade" style="animation-delay:150ms" transform="translate(25, 62)">
+    <path transform="translate(0, -12)" fill="#BC8CFF" d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/>
+    <text x="26" y="0" class="label">Total Stars Earned:</text>
+    <text x="220" y="0" class="value">3</text>
+  </g>
+  <g class="fade" style="animation-delay:250ms" transform="translate(25, 86)">
+    <path transform="translate(0, -12)" fill="#BC8CFF" d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"/>
+    <text x="26" y="0" class="label">Commits (last year):</text>
+    <text x="220" y="0" class="value">170</text>
+  </g>
+  <g class="fade" style="animation-delay:350ms" transform="translate(25, 110)">
+    <path transform="translate(0, -12)" fill="#BC8CFF" d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354Z"/>
+    <text x="26" y="0" class="label">Total PRs:</text>
+    <text x="220" y="0" class="value">1</text>
+  </g>
+  <g class="fade" style="animation-delay:450ms" transform="translate(25, 134)">
+    <path transform="translate(0, -12)" fill="#BC8CFF" d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"/>
+    <text x="26" y="0" class="label">Total Issues:</text>
+    <text x="220" y="0" class="value">0</text>
+  </g>
+  <g class="fade" style="animation-delay:550ms" transform="translate(25, 158)">
+    <path transform="translate(0, -12)" fill="#BC8CFF" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8ZM5 12.25a.25.25 0 0 1 .25-.25h3.5a.25.25 0 0 1 .25.25v3.25a.25.25 0 0 1-.4.2l-1.45-1.087a.249.249 0 0 0-.3 0L5.4 15.7a.25.25 0 0 1-.4-.2Z"/>
+    <text x="26" y="0" class="label">Contributed to:</text>
+    <text x="220" y="0" class="value">0</text>
+  </g>
+  <g class="fade" style="animation-delay:650ms" transform="translate(25, 182)">
+    <path transform="translate(0, -12)" fill="#BC8CFF" d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"/>
+    <text x="26" y="0" class="label">Followers:</text>
+    <text x="220" y="0" class="value">0</text>
+  </g>
+</svg>
