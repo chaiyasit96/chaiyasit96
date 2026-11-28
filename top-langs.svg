@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="210" viewBox="0 0 495 210" role="img" aria-label="Most Used Languages">
+  <title>Most Used Languages</title>
+  <style>
+    text { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .title { font-size: 18px; font-weight: 600; fill: #79C0FF; }
+    .label { font-size: 14px; fill: #C9D1D9; }
+    .value { font-size: 14px; font-weight: 700; fill: #C9D1D9; }
+    .muted { font-size: 12px; fill: #8B949E; }
+    .fade { opacity: 0; animation: fade 0.6s ease-in-out forwards; }
+    @keyframes fade { to { opacity: 1; } }
+  </style>
+  <rect x="0.5" y="0.5" rx="6" width="494" height="209" fill="#0D1117" stroke="#30363D"/>
+  <text x="25" y="35" class="title">Most Used Languages</text>
+  <clipPath id="bar"><rect x="25" y="62" width="445" height="8" rx="4"/></clipPath>
+  <g clip-path="url(#bar)"><rect x="25.00" y="62" width="275.94" height="8" fill="#3178c6"/><rect x="300.94" y="62" width="157.63" height="8" fill="#f1e05a"/><rect x="458.57" y="62" width="11.43" height="8" fill="#384d54"/></g>
+  <g class="fade" style="animation-delay:150ms" transform="translate(25, 105)">
+    <circle cx="5" cy="-5" r="5" fill="#3178c6"/>
+    <text x="16" y="0" class="label">TypeScript</text>
+    <text x="200" y="0" class="muted" text-anchor="end">62.0%</text>
+  </g>
+  <g class="fade" style="animation-delay:250ms" transform="translate(255, 105)">
+    <circle cx="5" cy="-5" r="5" fill="#f1e05a"/>
+    <text x="16" y="0" class="label">JavaScript</text>
+    <text x="200" y="0" class="muted" text-anchor="end">35.4%</text>
+  </g>
+  <g class="fade" style="animation-delay:350ms" transform="translate(25, 133)">
+    <circle cx="5" cy="-5" r="5" fill="#384d54"/>
+    <text x="16" y="0" class="label">Dockerfile</text>
+    <text x="200" y="0" class="muted" text-anchor="end">2.6%</text>
+  </g>
+</svg>
